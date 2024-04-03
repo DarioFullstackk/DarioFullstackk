@@ -1,5 +1,5 @@
 - 👋 Olá, sou @DarioFullstackk
-- 👀 Estou interessado em trabalhar em casa,
+- 👀 Estou interessado em trabalhar como desenvolvedor,
 - 🌱 Atualmente estou aprendendo linguagem de programação para fullstack
 - 💞️ Procuro colaborar na criação de sites
 - 📫 Como entrar em contato comigo instagram @dario.ricco ou email: dario.ricco@icloud.com
